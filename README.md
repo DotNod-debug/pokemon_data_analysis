@@ -13,6 +13,7 @@ Explore distributions of Pokémon stats
 Analyze relationships between types and attributes
 Visualize key insights using graphs and charts
 
+
 📂 Dataset
 Source: Pokémon dataset (CSV format)
 Features include:
@@ -21,6 +22,7 @@ Type (Primary & Secondary)
 HP, Attack, Defense
 Speed, Special Attack, Special Defense
 Generation, Legendary status
+
 
 🛠️ Tools & Technologies
 Python 🐍
